@@ -53,7 +53,7 @@ body   {	color: black;
 		}*/
 		/* formatting Resume*/
 		#time {	font-style: italic;}
-		#position {font-weight: Bold;}
+		p.position {font-weight: Bold;}
 		#indent {text-indent:50px;}
 		#resume {background-color:pink;
 				width:750px;
