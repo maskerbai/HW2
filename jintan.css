@@ -48,11 +48,21 @@ body   {	color: black;
 			padding-right:10px; 
 			padding-bottom:10px;
 			margin-left: 10px;}
-		/* formatting footer*/
+		/* formatting footer
 	#footer{float:left;
-		}
-		/* formatting class working term*/
+		}*/
+		/* formatting Resume*/
+		#time {	font-style: italic;}
+		#position {font-weight: Bold;}
+		#indent {text-indent:50px;}
+		#resume {background-color:pink;
+				width:750px;
+				margin:auto;
+				padding:20px;
+				text-align: left;} 
+		
 		/* formatting tables*/
-		/* formatting address and email */
+		td { text-align:left; height:18px;}
+		
 		
 		

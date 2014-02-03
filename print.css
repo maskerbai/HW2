@@ -1,0 +1,22 @@
+body   {	color: black; 
+		background: #ADD6FF;
+		font-family: Arial, Helvetica, Sans-serif;
+		font-size:10pt;
+		margin: 5 auto;
+		}
+img 	{display: none;}
+
+table  {display: none;}
+
+#resume {
+   width: auto;
+   margin: 0;
+   padding: 25pt;
+   border: 0; 
+   float: none !important;
+   color: black;
+   background: transparent none;
+   }
+
+#eliminate {display:none;}
+#header, #nav, #sidebar, #footer { display: none; }
