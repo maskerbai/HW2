@@ -1,5 +1,58 @@
-body { 	color: black;
-		font-family: Gill Sans, Verdana, Helvetica, sans-serif;
-		font-size: 10pt;
-		margin: 0 auto; 
-	}
+body   {	color: black; 
+		background: #ADD6FF;
+		font-family: Arial, Helvetica, Sans-serif;
+		font-size:10pt;
+		margin: 5 auto;
+		}
+		/* formatting h1 */
+	h1 {	font-size: 36 pt;
+		font-weight: Bold;
+		margin-top: 15px;
+		margin-bottom: 0px;
+		text-align: center;
+		}
+		/* formatting h2, h3  */
+	h3 { margin-top: 10px;
+		margin-bottom: 0px;
+		}
+		/* formatting h4 italic */
+	h4 {	margin-top: 10px;
+		margin-bottom: 0px;
+		font-style: italic;
+		}
+		/* formatting nav */
+	#nav { background:#66FF66; 
+		   padding:1px 1px; 
+		   text-align:center; 
+		   }
+		   
+	#nav li  { display: inline; 
+			list-style-type: none; 
+			padding-right: 120px; 
+			font-size: 14pt; 
+			font-weight:normal; 
+			}
+		/* formatting main paragraph in the right*/
+	#main {	float:right; 
+			width:950px; 
+			padding-top:0px; 
+			padding-left:10px; 
+			padding-right:10px; 
+			padding-bottom:10px; 
+			margin-bottom:0; 
+			}
+		/* formatting pictures in the left side */
+	#pic {	float:left;
+			padding-top:0px; 
+			padding-left:10px; 
+			padding-right:10px; 
+			padding-bottom:10px;
+			margin-left: 10px;}
+		/* formatting footer*/
+	#footer{float:left;
+		}
+		/* formatting class working term*/
+		/* formatting tables*/
+		/* formatting address and email */
+		
+		
