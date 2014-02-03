@@ -17,6 +17,6 @@ table  {display: none;}
    color: black;
    background: transparent none;
    }
-
+#eliminate {display:none;}
 h4.eliminate {display:none;}
 #header, #nav, #sidebar, #footer { display: none; }
